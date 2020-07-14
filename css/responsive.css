@@ -42,5 +42,9 @@
     }
     .paras {
     padding: 0px;
-}
+    }
+    
+    .logo img {
+        width: 88%;
+    }
 }
